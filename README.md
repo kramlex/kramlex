@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNsbjRkMHB0NzBkYXlmcWFzdjRlY3E1cjM5NTUwdng3NmQ3a2pndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u4nJPf0JtQPdStq/giphy.gif"/>
 </div>
 
-🔭 I’m currently HARD working
 
 <!--
 **kramlex/kramlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
